@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @alex-t-reed
+- 👀 I’m interested in writing better code and solving problems
+- 🌱 I’m currently learning HTML, Javascript, and Python
+- 💞️ I’m looking to collaborate on open source projects
+- 📫 You can reach me on [linkedin](https://linkedin.com/in/alextreed)
